@@ -1,0 +1,15 @@
+E:\5°17°\Mi Formulario\miformulario\miformulario\bin\Debug\net6.0-windows\miformulario.exe
+E:\5°17°\Mi Formulario\miformulario\miformulario\bin\Debug\net6.0-windows\miformulario.deps.json
+E:\5°17°\Mi Formulario\miformulario\miformulario\bin\Debug\net6.0-windows\miformulario.runtimeconfig.json
+E:\5°17°\Mi Formulario\miformulario\miformulario\bin\Debug\net6.0-windows\miformulario.dll
+E:\5°17°\Mi Formulario\miformulario\miformulario\bin\Debug\net6.0-windows\miformulario.pdb
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.csproj.AssemblyReference.cache
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.GeneratedMSBuildEditorConfig.editorconfig
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.AssemblyInfoInputs.cache
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.AssemblyInfo.cs
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.csproj.CoreCompileInputs.cache
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.dll
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\refint\miformulario.dll
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.pdb
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\miformulario.genruntimeconfig.cache
+E:\5°17°\Mi Formulario\miformulario\miformulario\obj\Debug\net6.0-windows\ref\miformulario.dll
